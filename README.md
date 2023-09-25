@@ -8,4 +8,4 @@
 [GitHub](https://github.com/Hi1t0n)  
 [Telegram](https://t.me/Artyom_Hilton)  
 [Discord](HILTON#9122)  
-[CodeWars](https://www.codewars.com/users/Hi1t0n/stats)
+[CodeWars](https://www.codewars.com/users/H1lt0n)
