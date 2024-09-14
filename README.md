@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/CodeWars-darkred?style=for-the-badge&logo=codewars"/>
     </a>
      <a href="https://www.linkedin.com/in/artyom-ivanov-337a98328/">
-        <img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin"/>
+        <img src="[https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)"/>
     </a>
     <a href="https://t.me/UAEAdventurer">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
