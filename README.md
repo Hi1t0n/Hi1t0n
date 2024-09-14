@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=LinkedIn"/>
     </a>
     <a href="https://t.me/UAEAdventurer">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=telegram"/>
     </a>
 </div>
 <div align="center">
