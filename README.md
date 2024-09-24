@@ -8,6 +8,9 @@
     <a href="https://www.codewars.com/users/H1lt0n">
         <img src="https://img.shields.io/badge/CodeWars-darkred?style=for-the-badge&logo=codewars"/>
     </a>
+    <a href="https://leetcode.com/u/Hi1t0n/">
+        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+    </a>
      <a href="https://www.linkedin.com/in/artyom-ivanov-337a98328/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
