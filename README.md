@@ -26,19 +26,28 @@
 
 ---
 - :fire: My name is **Artyom Ivanov**
-- :zap: My favorite language C#
+- :zap: My favorite language is **C#**.
 - :telescope: I have been developing since **2023**
+
+<div align="center">
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=Hi1t0n&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Hi1t0n&show_icons=true&theme=default" alt="GitHub Stats" />
+    </picture>
+</div>
+
 ---
-:hammer_and_wrench: Languages and Tools:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+
+### :hammer_and_wrench: Languages and Tools:
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title=".Net Core" alt=".Net Core" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="Rider IDE" alt="Rider IDE" width="50" height="50"/>&nbsp;
@@ -46,7 +55,8 @@
 </div>
 
 ---
-:warning: My Stats:
+
+### :bar_chart: My Stats:
 <div id="my-stats" align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hi1t0n&theme=dark&background=000000" alt="GitHub Streak"/>
