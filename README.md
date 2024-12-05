@@ -26,7 +26,8 @@
 
 ---
 - :fire: My name is **Artyom Ivanov**
-- :zap: My favorite language is **C#**.
+- :zap: My favorite language is **C#**
+- :star2: In free time, i'm like coding on **Codewars** and **Leetcode**
 - :telescope: I have been developing since **2023**
 
 <div align="center">
