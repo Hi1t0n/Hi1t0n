@@ -43,6 +43,8 @@
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title=".Net Core" alt=".Net Core" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png" title="ASP.NET Core" alt="ASP.NET Core" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/dotnet/efcore/blob/main/logo/ef-logo.svg" title="Entity Framework Core" alt="Entity Framework Core" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
