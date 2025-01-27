@@ -60,11 +60,6 @@
 ---
 
 ### :bar_chart: My Stats:
-<div id="my-stats" align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hi1t0n&theme=dark&background=000000" alt="GitHub Streak"/>
-    </a>
-</div>
 <div id="tip-langs" align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi1t0n&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
