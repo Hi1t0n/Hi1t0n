@@ -59,27 +59,6 @@
 
 ---
 
-### 💻 My Work Experience:
-
-<div id="work-experience">
-    <div>
-        <div style="display: flex; align-items: center;">
-            <img src="https://github.com/Hi1t0n/Hi1t0n/blob/main/Src/Img/NrbLogo.jpg" alt="Norbit" width="50" height="50" align="left" style="margin-right: 8;"/>  
-            <strong>НОРБИТ</strong>  
-        </div>
-        <div>
-            <br>
-            <br>
-            <strong>Ассистент программиста .NET</strong>
-            <br>
-            <strong>February 2025 - March 2025</strong>
-        </div>
-    </div>
-</div>
-
-
----
-
 ### :bar_chart: My Stats:
 <div id="tip-langs" align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
